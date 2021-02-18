@@ -6,7 +6,6 @@ from ..tst import get_attribute
 
 FILENAME = "problem1.py"
 
-@pytest.mark.xfail
 def test_sy_expectation_value():
     value = get_attribute("result1d", FILENAME)
     sy = get_attribute("sy", FILENAME)
