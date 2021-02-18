@@ -78,7 +78,7 @@
       "output": "",
       "comparison": "included",
       "timeout": 1,
-      "points": 6
+      "points": 3
     },
     {
       "name": "Test: Problem 3 / X values",
